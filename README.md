@@ -366,8 +366,8 @@ vol_zle   compressratio  1.00x  -
 
 Теперь перейдём к следущей части задания и импортируем пул zfs. Для этого 
 загрузим на сервер файлы дисковых устройств. Воспользуемся утилитой wget. Что бы
-загрузить файл по следующей ссылке - 
-https://drive.google.com/open?id=1KRBNW33QWqbvbVHa3hLJivOAt60yukkg
+загрузить файл по следующей [ссылке](https://drive.google.com/open?id=1KRBNW33QWqbvbVHa3hLJivOAt60yukkg "Файл на GoogleDrive")
+
 Воспользуемся запросом, приведённым ниже:
 ```
 wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=FILEID' -O FILENAME
