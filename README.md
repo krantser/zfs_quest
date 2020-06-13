@@ -268,7 +268,7 @@ curl https://docs.oracle.com/cd/E19253-01/816-5166/zfs-1m/index.html --output /m
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100  115k  100  115k    0     0  62244      0  0:00:01  0:00:01 --:--:-- 62222
-
+```
 
 Попробуем использовать команду `ls` для вывода размера файла:
 ```
